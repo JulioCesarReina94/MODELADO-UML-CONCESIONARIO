@@ -12,21 +12,27 @@ Modelado de plataforma web de un concesionario de vehículos de alta gama, usand
 - **La aceleración del vehículo.
 - **La potencia del motor.
 
-CASOS DE USO
+### CASOS DE USO
+
 ![CASO DE USO](Imagenes/CasoUso.PNG)
 ![CASO DE USO TABLA](Imagenes/CasoUsoTabla.PNG)
 
-DIAGRAMA DE CLASES
+### DIAGRAMA DE CLASES
+
 ![DIAGRAMA DE CLASES](Imagenes/Clases.PNG)
 
-DIAGRAMA DE SECUENCIA
+### DIAGRAMA DE SECUENCIA
+
 ![DIAGRAMA DE SECUENCIA](Imagenes/Secuencia.PNG)
 
-DIAGRAMA DE ESTADOS
+### DIAGRAMA DE ESTADOS
+
 ![DIAGRAMA DE ESTADOS](Imagenes/Estados.PNG)
 
-DIAGRAMA DE COMPONENTES
+### DIAGRAMA DE COMPONENTES
+
 ![DIAGRAMA DE COMPONENTES](Imagenes/Componentes.PNG)
 
-DIAGRAMA DE DESPLIEGUE
+### DIAGRAMA DE DESPLIEGUE
+
 ![DIAGRAMA DE DESPLIEGUE](Imagenes/Despliegue.PNG)
